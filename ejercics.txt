@@ -1,0 +1,53 @@
+**************
+*Ejercicio #1*
+**************
+1- solicitar numeros n1 ,n2 ,n3.
+2- comparar n1 con n2.
+3- comparar el mayor de n1 y n2 con n3.
+4-mostrar el numero mayor.
+
+**************
+*Ejercicio #2*
+**************
+1- solicitar los angulos a1, a2 ,a3.
+2- si la suma de a1+a2+a3 es igual a 180, mostrar angulos validos.
+3- si la suma no da 180 mostrar angulos no validos.
+
+**************
+*Ejercicio #3*
+**************
+1- solicitar anio
+2- si anio mod 4 es igual a 0 y mod 100 es igual a 0 y mod 400 es igual a 0, mostrar año bisiesto
+3- si no mostrar año no bisiesto.
+
+**************
+*Ejercicio #4*
+**************
+1-  solicitar minutos consumidos 
+2-  si minutos son mayores a 0 y menores o igual a 100 
+3-  multipliacar minutos por 0.45
+4-  mostrar saldo a cancelar 
+5-  si minutos son mayores a 100 y menores o igual a 200 
+6-  muliplicar minutos por 0.40 
+7-  mostrar saldo a cancelar
+8-  si minutos son mayores a 200 y menores o igual a 400 
+9-  muliplicar minutos por 0.30 
+10- mostrar saldo a cancelar con $5.00 de descuento 
+11- si minutos son mayores a 400 
+12- muliplicar minutos por 0.27 
+13- mostrar saldo a cancelar con $10.00 de descuento 
+**************
+*Ejercicio #5*
+**************
+1-  solicitar dia.
+2-  solicitar precio del producto.
+3-  ver etiqueta del producto.
+4-  ver categoria del producto.
+5-  si el producto es nuevo.
+6-  mostrar el precio a cancelar.
+7-  si el producto es categoria auto estéreo y precio es menor a $100.00
+8-  mostar precio menos 5% pero si el cliente viste un sombrero aplicar 5% de descuento y restar $5.00 al precio 
+9-  si el precio es mayor a $100.00 
+10- mostrar precio a cancelar menos el 3% pero si el cliente viste un sombrero aplicar 3% de descuento y restar $5.00 al precio
+11- si es fin de semana y no aplico a los descuentos anteriores 
+12- hacerle descuento del 10% al total de su compra
